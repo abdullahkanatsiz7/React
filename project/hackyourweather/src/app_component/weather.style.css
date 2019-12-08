@@ -10,8 +10,13 @@
   background-color: transparent;
   box-shadow: none !important;
   border: none;
-  border-bottom: 2px solid tomato;
+  border-bottom: 2px solid rgb(240, 96, 70);
 }
 .py-2{
   color: black !important;
+}
+.click{
+  position: relative;
+  right: -350px;
+  top: 25px;
 }
