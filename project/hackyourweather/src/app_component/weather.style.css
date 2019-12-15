@@ -20,3 +20,13 @@
   right: -350px;
   top: 25px;
 }
+.but{
+  position: relative;
+  left: 300px;
+    top: 190px;
+}
+.click{
+  position: relative;
+   top:center;
+   font-size: 2em;
+}
